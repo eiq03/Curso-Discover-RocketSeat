@@ -6,12 +6,7 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     img.setAttribute("src", "./assets/avatar1.jpg")
-    img.setAttribute('alt',"Foto de um homem na cidade.")
   } else {
     img.setAttribute("src", "./assets/avatar1.jpg")
-    img.setAttribute(
-      "alt",
-      "Foto de homem com cabelo liso, usando uma camisa preta."
-    )
   }
 }

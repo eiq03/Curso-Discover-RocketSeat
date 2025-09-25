@@ -129,7 +129,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background: var(--surface-hover);
+  background: var(--surface-color);
   border: 1.5px solid var(--text-color);
 }
 
@@ -154,7 +154,7 @@ ul li a:hover {
 }
 
 #social-links a:hover {
-  background: var(--sociallink-hover);
+  background: var(--sociallink-color);
   padding: 16px;
 }
 
